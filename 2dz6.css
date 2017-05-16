@@ -1,0 +1,37 @@
+.six {
+	border: thick;
+	border-style: dashed;
+	width: 483px;
+	height: 120px;
+	font-weight: 300;
+	
+}
+p {
+	font-family: serif;
+	margin-left: 3px;
+    font-size: 18px;	
+  }
+  .c1{
+  	font-size: 21px;
+  }
+  .seven  {
+    margin-top: 20px;
+    border: thick;
+	border-style: dashed;
+	width: 460px;
+	height: 140px;
+	font-weight: 300;
+  
+  }  
+  .c2{
+  	font-size: 26px;
+  	letter-spacing:2px;
+  }
+.c3 {
+	color: blue;
+	font-size: 18px;
+}
+.c4{
+	color: red;
+	font-size: 18px;
+}
